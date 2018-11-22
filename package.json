@@ -1,0 +1,35 @@
+{
+  "name": "2co-react",
+  "version": "0.1.0",
+  "description": "React stateful component to connect with 2CO api and generate token",
+  "author": {
+    "name": "Matan Schatzman",
+    "email": "matanschatzman@gmail.com"
+  },
+  "main": "./src/TCO.js",
+  "repository": "github:metalice/2CO-NODE",
+  "private": false,
+  "homepage": "https://github.com/metalice/2CO-NODE",
+  "bugs": {
+    "url": "https://github.com/metalice/2CO-NODE/issues",
+    "email": "matanschatzman@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "card-react": "^1.2.7",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-form": "^3.5.6",
+    "react-load-script": "^0.0.6",
+    "react-loader-spinner": "^2.2.0",
+    "react-responsive-modal": "^3.5.1",
+    "react-scripts": "2.1.1"
+  },
+  "keywords": [
+    "2checkout",
+    "2co",
+    "payment",
+    "payment gateway",
+    "react"
+  ]
+}
