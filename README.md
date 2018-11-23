@@ -57,7 +57,7 @@ This is the only component you need to add:
 | showForm | true or false      |    show cedit card form |
 | showModal | true or false       |    show credit card form on modal or on page |
 | showLoading| true or false     |    show loading bar while waiting for response back |
-| returnToken| true or false      |    function that will recive one argument as the token string |
+| returnToken| function     |    function that will recive one argument as the token string |
 
 
 
